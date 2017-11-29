@@ -1,8 +1,6 @@
 package Lab2;
 
-/**
- * Created by Nick Batist on 10/23/17.
- */
+
 public class Main {
     public static void main(String[] args) {
         Car nissan = new Car(Manufacturer.NISSAN, "Leaf", FuelType.ELECTRICITY);
