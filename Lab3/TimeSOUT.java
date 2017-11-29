@@ -1,8 +1,6 @@
 package Lab3;
 
-/**
- * Created by Nick Batist on 11/23/17.
- */
+
     public class TimeSOUT implements Runnable {
 
         private boolean stop;
